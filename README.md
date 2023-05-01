@@ -19,3 +19,9 @@ Enter the name of your github repository where the iHeart streamlit project is l
 
 Click on deploy branch to deploy the model
 ![Screenshot at 2023-04-25 21-03-11](https://user-images.githubusercontent.com/90387652/234378852-c740acaf-b643-42aa-a558-69db4cbd1091.png)
+
+# Source code link
+https://colab.research.google.com/drive/1InWTn3vpylHko-GCrMCAfhJOUcJ4zCfm?usp=sharing
+
+# Dataset
+[heart_disease_data.csv](https://github.com/Anazami/iheartmodel/files/11366125/heart_disease_data.csv)
